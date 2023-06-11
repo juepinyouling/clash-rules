@@ -2,4 +2,3 @@ payload:
   - DOMAIN,raw.gitmirror.com
   - DOMAIN,clashsub.d2cool.com
   - DOMAIN,b23.tv
-  - DOMAIN-KEYWORD,gofile.io
