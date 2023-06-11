@@ -2,4 +2,4 @@ payload:
   - DOMAIN,raw.gitmirror.com
   - DOMAIN,clashsub.d2cool.com
   - DOMAIN,b23.tv
-  - AND,((DOMAIN-KEYWORD,file),(DOMAIN-SUFFIX,gofile.io))
+  - DOMAIN,gofile.io
