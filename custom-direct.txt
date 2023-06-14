@@ -3,3 +3,4 @@ payload:
   - DOMAIN,clashsub.d2cool.com
   - DOMAIN,b23.tv
   - DOMAIN,gofile.io
+  - DOMAIN,kaguraserver.com
