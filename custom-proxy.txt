@@ -1,3 +1,5 @@
 payload:
   - DOMAIN-KEYWORD,sehuatang.org
   - DOMAIN-KEYWORD,xsmy54s.com
+  - DOMAIN,gofile.io
+  - DOMAIN,api.gofile.io
