@@ -2,5 +2,5 @@ payload:
   - DOMAIN,raw.gitmirror.com
   - DOMAIN,clashsub.d2cool.com
   - DOMAIN,b23.tv
-  - DOMAIN,gofile.io
+  - DOMAIN-SUFFIX,gofile.io
   - DOMAIN,kaguraserver.com
