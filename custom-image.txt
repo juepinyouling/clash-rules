@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN,pics.dmm.co.jp
+  - DOMAIN,www.hxmmdd.com
