@@ -1,3 +1,4 @@
 payload:
   - DOMAIN,pics.dmm.co.jp
-  - DOMAIN,www.hxmmdd.com
+  - DOMAIN,hxmmdd.com
+  - DOMAIN,jdbstatic.com
