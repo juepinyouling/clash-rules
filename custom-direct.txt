@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN,kaguraserver.com
   - DOMAIN,pixeldrain.com
+  - DOMAIN,spyderrock.com
