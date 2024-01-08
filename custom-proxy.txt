@@ -5,3 +5,4 @@ payload:
   - DOMAIN-KEYWORD,ag43u.cn
   - DOMAIN,gofile.io
   - DOMAIN,api.gofile.io
+  - DOMAIN,doh.pub
