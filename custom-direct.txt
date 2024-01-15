@@ -6,3 +6,4 @@ payload:
   - DOMAIN,kaguraserver.com
   - DOMAIN,pixeldrain.com
   - DOMAIN,spyderrock.com
+  - DOMAIN,vip.lz-cdn.com
