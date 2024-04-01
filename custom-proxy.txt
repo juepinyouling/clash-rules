@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,sehuatang.org
   - DOMAIN-KEYWORD,me8gs.app
   - DOMAIN-KEYWORD,xsmy54s.com
+  - DOMAIN-KEYWORD,0slnk.us
   - DOMAIN-KEYWORD,ag43u.cn
   - DOMAIN,gofile.io
   - DOMAIN,api.gofile.io
