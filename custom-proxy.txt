@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,xsmy54s.com
   - DOMAIN-KEYWORD,0slnk.us
   - DOMAIN-KEYWORD,ag43u.cn
+  - DOMAIN-KEYWORD,yfvjv.app
   - DOMAIN,gofile.io
   - DOMAIN,api.gofile.io
   - DOMAIN,doh.pub
