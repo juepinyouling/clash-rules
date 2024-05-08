@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,0slnk.us
   - DOMAIN-KEYWORD,ag43u.cn
   - DOMAIN-KEYWORD,yfvjv.app
+  - DOMAIN-KEYWORD,brrub.us
   - DOMAIN,gofile.io
   - DOMAIN,api.gofile.io
   - DOMAIN,doh.pub
