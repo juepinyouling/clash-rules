@@ -1,7 +1,7 @@
 payload:
   - DOMAIN,raw.gitmirror.com
   - DOMAIN,gh-proxy.com
-  - DOMAIN,d2cool.com
+  - DOMAIN-SUFFIX,d2cool.com
   - DOMAIN,b23.tv
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN,kaguraserver.com
