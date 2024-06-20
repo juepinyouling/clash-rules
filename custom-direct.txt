@@ -5,5 +5,4 @@ payload:
   - DOMAIN,b23.tv
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN,kaguraserver.com
-  - DOMAIN,pixeldrain.com
   - DOMAIN,spyderrock.com
