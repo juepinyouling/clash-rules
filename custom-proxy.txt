@@ -11,3 +11,4 @@ payload:
   - DOMAIN,gofile.io
   - DOMAIN,api.gofile.io
   - DOMAIN,doh.pub
+  - DOMAIN,dogfight360.com
