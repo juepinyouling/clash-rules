@@ -12,3 +12,4 @@ payload:
   - DOMAIN,api.gofile.io
   - DOMAIN,doh.pub
   - DOMAIN,dogfight360.com
+  - DOMAIN,iflow.work
