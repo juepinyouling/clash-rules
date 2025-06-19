@@ -6,5 +6,4 @@ payload:
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN,kaguraserver.com
   - DOMAIN,spyderrock.com
-  - DOMAIN,tv.micu.hk
-  - DOMAIN,tv1.micu.hk
+  - DOMAIN-SUFFIX,micu.hk
