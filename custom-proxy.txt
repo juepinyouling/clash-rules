@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,7pzzv.us
   - DOMAIN-KEYWORD,ag43u.cn
   - DOMAIN-KEYWORD,yfvjv.app
+  - DOMAIN-KEYWORD,ymawv.la
   - DOMAIN-KEYWORD,brrub.us
   - DOMAIN-KEYWORD,5hhyu.com
   - DOMAIN-KEYWORD,mofmicrosoft.com
