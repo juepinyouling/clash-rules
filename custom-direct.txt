@@ -7,3 +7,4 @@ payload:
   - DOMAIN,kaguraserver.com
   - DOMAIN,spyderrock.com
   - DOMAIN-SUFFIX,micu.hk
+  - DOMAIN-SUFFIX,plex.tv
