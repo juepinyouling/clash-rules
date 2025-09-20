@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,speedtest.im
-  - DOMAIN-SUFFIX,kessel-api.parsec.app
+  - DOMAIN-SUFFIX,parsec.app
