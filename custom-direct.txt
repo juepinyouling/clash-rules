@@ -8,3 +8,4 @@ payload:
   - DOMAIN,spyderrock.com
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,speedtest.im
