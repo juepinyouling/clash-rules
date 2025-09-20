@@ -10,4 +10,3 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,speedtest.im
   - DOMAIN-SUFFIX,parsec.app
-  - DOMAIN-SUFFIX,d2cool.com
