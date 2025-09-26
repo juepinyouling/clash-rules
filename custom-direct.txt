@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,speedtest.im
   - DOMAIN-SUFFIX,parsec.app
   - DOMAIN-KEYWORD,d2cool.com
+  - DOMAIN-KEYWORD,speed.do
