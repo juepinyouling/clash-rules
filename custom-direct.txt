@@ -14,3 +14,4 @@ payload:
   - DOMAIN-KEYWORD,speed.do
   - DOMAIN-SUFFIX,palworldgame.com
   - DOMAIN-KEYWORD,pixeldra.in
+  - PROCESS-NAME,cfst
