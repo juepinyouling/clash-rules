@@ -14,4 +14,4 @@ payload:
   - DOMAIN-KEYWORD,speed.do
   - DOMAIN-SUFFIX,palworldgame.com
   - DOMAIN-KEYWORD,pixeldra.in
-  - AND,((DST-PORT,2053),(SRC-IP-CIDR,192.168.2.2/32))
+  - AND,((DST-PORT,2083),(SRC-IP-CIDR,192.168.2.2/32))
