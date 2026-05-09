@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,palworldgame.com
   - DOMAIN-KEYWORD,pixeldra.in
   - AND,((DST-PORT,2083),(SRC-IP-CIDR,192.168.2.2/32))
+  - PROCESS-NAME,cfst
